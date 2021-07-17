@@ -1,1 +1,3 @@
 # YTCommentSpeechBubbles
+
+YouTube配信のチャット欄をOBS経由で吹き出しのように表示するコードです。
